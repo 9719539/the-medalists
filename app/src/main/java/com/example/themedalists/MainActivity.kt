@@ -80,11 +80,10 @@ class MainActivity : AppCompatActivity() {
         adapter.setOnClickListener(object:
          Adapter.OnClickListener {
             override fun onClick(position: Int, medalist: Medalist) {
-                // Show toast popup with details
-                Toast.makeText(
-                    this@MainActivity,
-                    "${medalist.country} has won ${medalist.goldMedals.toString()} gold medals.",
-                    Toast.LENGTH_SHORT).show()
+
+                // create modal popup
+                val detailsModal = DetailsModal.newInstance(medalist)
+                detailsModal.show(supportFragmentManager,"DetailsModal")
 
                 // save last clicked item
                 saveItem(medalist)

@@ -9,4 +9,9 @@
 
     <string name="app_name">Medalists</string>
     <string name="main_title">Medalist List</string>
+    <string name="country">Country</string>
+    <string name="modal_golds">Gold: 0</string>
+    <string name="modal_silvers">Silver: 0</string>
+    <string name="modal_bronzes">Bronze: 0</string>
+    <string name="modal_country_code">CODE</string>
 </resources>
