@@ -1,0 +1,10 @@
+Michael Phelps,23,Gold
+Usain Bolt,8,Gold
+Larisa Latynina,9,Gold
+Paavo Nurmi,9,Gold
+Bjørn Dæhlie,8,Gold
+Mark Spitz,9,Gold
+Carl Lewis,9,Gold
+Marit Bjørgen,8,Gold
+Michael Johnson,2,Gold
+Allyson Felix,7,Gold

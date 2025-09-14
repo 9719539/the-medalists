@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimary">#8A2BE2</color>
+    <color name="colorPrimaryDark">#5C4B8A</color>
+    <color name="colorAccent">#FFD700</color>
+    <color name="medalGold">#EFBF04</color>
+    <color name="medalSilver">#E0E0E0</color>
+    <color name="medalBronze">#CE8946</color>
+    <color name="textColor">#000000</color>
+    <color name="darkGray">#CCC000</color>
+    <color name="backgroundColor">#FFFACD</color>
+</resources>
